@@ -4,3 +4,4 @@
 
 schema_escola 2016-02-26T14:12:06Z inaciojunior <inacio.magalhaes@armazemparaiba.com.br> # Add schema for escola
 aluno [schema_escola] 2016-02-26T14:44:41Z inaciojunior <inacio.magalhaes@armazemparaiba.com.br> # cria tabela alunos
+@v1.0.0-nr.ticket 2016-02-26T15:08:34Z inaciojunior <inacio.magalhaes@armazemparaiba.com.br> # tag mudanca aluno e esquema escola
